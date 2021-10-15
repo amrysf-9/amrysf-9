@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrysf-9
 - 👀 I’m an UX enthusiast, newbie Web Developer and diehard fans of Data Science.
-- 🌱 I’m currently learning Cognitive Science focusing more on the computer science parts.
+- 🌱 I’m currently a fresh graduate trying to venture more on IT.
 - 📫 How to reach me: mail=amiryussuf2@gmail.com
 
 <!---
